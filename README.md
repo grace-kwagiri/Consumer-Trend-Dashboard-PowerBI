@@ -143,6 +143,13 @@ This analysis provides actionable insights to:
   
 ---
 
+---
+
+<img width="923" height="528" alt="image" src="https://github.com/user-attachments/assets/dc739445-fbcf-48ae-93e2-c61263e31f09" />
+
+---
+
+
 ## 🤝 Author
 
 **Grace Kwagiri**  
