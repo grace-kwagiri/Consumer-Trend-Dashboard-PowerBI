@@ -141,11 +141,15 @@ This analysis provides actionable insights to:
 - Focus on high-margin product lines  
 - Improve demand forecasting using historical data
   
----
 
 ---
 
-<img width="923" height="528" alt="image" src="https://github.com/user-attachments/assets/dc739445-fbcf-48ae-93e2-c61263e31f09" />
+<img width="931" height="550" alt="image" src="https://github.com/user-attachments/assets/d0a84943-38dd-4d36-ba7d-55e3ca404132" />
+<img width="924" height="537" alt="image" src="https://github.com/user-attachments/assets/c45ad998-649d-49c8-8a50-3c19b4927594" />
+<img width="920" height="539" alt="image" src="https://github.com/user-attachments/assets/b217b589-ec72-4d40-a58d-c80583138247" />
+<img width="918" height="542" alt="image" src="https://github.com/user-attachments/assets/272f5a25-7cb3-4d63-9397-03f3fd80480a" />
+<img width="920" height="545" alt="image" src="https://github.com/user-attachments/assets/8ea1a0c1-3f13-4aff-9359-a5f260dc241f" />
+<img width="918" height="546" alt="image" src="https://github.com/user-attachments/assets/343f26af-a5a7-442a-8a6a-b7938fa210fe" />
 
 ---
 
